@@ -7,15 +7,16 @@
   - Baubles
   - Bdlib
   - BiblioCraft
-  - Big Reactors
+  - BiblioWoods(BiomesOPlenty) (Disabled)
+  - Big Reactors (Disabled)
   - Binnie's Mods
-  - Biomes O' Plenty
+  - Biomes O' Plenty (Disabled)
   - Blood Magic
   - Botania
   - Buildcraft
   - Carpenter's Blocks
   - ChickenChunks
-  - Chisel
+  - Chisel 2
   - CodeChickenCore
   - CodeChickenLib
   - CoFH Core
@@ -25,21 +26,21 @@
   - DenseOres
   - Ender Tech
   - Ender Zoo
-  - EnderIO
+  - EnderIO (Disabled)
   - EnderStorage
   - Extra Utilities
-  - Factorization
+  - Factorization (Disabled)
   - FastCraft
   - FlatSigns
   - Forestry
   - Forge Multipart
   - Funky Locomotion
-  - Gendustry
+  - Gendustry (Disabled)
   - Hat Stand
   - Hats
   - iChunUtil
   - IndustrialCraft 2
-  - InfiniBows
+  - InfiniBows (Disabled)
   - INpure Core
   - Inventory Tweaks
   - IronChests
@@ -48,10 +49,10 @@
   - Magic Bees
   - Mantle
   - Mapwriter
-  - MineFactory Reloaded
+  - MineFactory Reloaded (Disabled)
   - MineTweaker
   - MobiusCore
-  - Modular Powersuits
+  - Modular Powersuits (Disabled)
   - Morph
   - Morpheus
   - Mystcraft
@@ -70,10 +71,10 @@
   - OpenPeripheral Core
   - Opis
   - PneumaticCraft
-  - Portal Gun
+  - Portal Gun (Disabled)
   - Project Red
   - Railcraft
-  - Redstone Arsenal
+  - Redstone Arsenal (Disabled)
   - Resource Loader
   - Steve's Carts 2
   - Steve's Factory Manager
@@ -92,3 +93,5 @@
   - Waila Harvestability
   - Wireless Redstone CBE
   - Witchery
+  - OpenComputer
+  - Fast Leaf Decay
