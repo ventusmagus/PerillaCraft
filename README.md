@@ -63,7 +63,7 @@
   - Not Enough Keys
   - NotEnoughCodecs
   - Nuclear Control
-  - Numina
+  - Numina (Disabled)
   - Obsidiplates
   - Open Peripheral
   - OpenBlocks
@@ -76,6 +76,7 @@
   - Railcraft
   - Redstone Arsenal (Disabled)
   - Resource Loader
+  - slick-util (Disabled)
   - Steve's Carts 2
   - Steve's Factory Manager
   - Thaumcraft
