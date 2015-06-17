@@ -10,3 +10,7 @@ usercache.json
 usernamecache.json
 FTBInstall.bat
 FTBInstall.sh
+
+
+config/forge.cfg
+config/forgeChunkLoading.cfg
