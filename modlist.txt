@@ -11,10 +11,10 @@
   - Baubles
   - Bdlib
   - BiblioCraft
-  - BiblioWoods(BiomesOPlenty) (Disabled)
-  - Big Reactors (Disabled)
+  - BiblioWoods(BiomesOPlenty) (Removed)
+  - Big Reactors (Removed)
   - Binnie's Mods
-  - Biomes O' Plenty (Disabled)
+  - Biomes O' Plenty (Removed)
   - Blood Magic
   - Botania
   - Buildcraft
@@ -26,25 +26,25 @@
   - CoFH Core
   - Compact Solars
   - ComputerCraft
-  - Custom Main Menu (Disabled)
+  - Custom Main Menu (Removed)
   - DenseOres
   - Ender Tech
   - Ender Zoo
-  - EnderIO (Disabled)
+  - EnderIO (Removed)
   - EnderStorage
   - Extra Utilities
-  - Factorization (Disabled)
+  - Factorization (Removed)
   - FastCraft
   - FlatSigns
   - Forestry
   - Forge Multipart
   - Funky Locomotion
-  - Gendustry (Disabled)
+  - Gendustry (Removed)
   - Hat Stand
   - Hats
   - iChunUtil
   - IndustrialCraft 2
-  - InfiniBows (Disabled)
+  - InfiniBows (Removed)
   - INpure Core
   - Inventory Tweaks
   - IronChests
@@ -53,13 +53,13 @@
   - Magic Bees
   - Mantle
   - Mapwriter
-  - MineFactory Reloaded (Disabled)
+  - MineFactory Reloaded (Removed)
   - MineTweaker
   - MobiusCore
-  - Modular Powersuits (Disabled)
+  - Modular Powersuits (Removed)
   - Morph
   - Morpheus
-  - Mystcraft
+  - Mystcraft (Removed)
   - Natura
   - NEI Addons
   - NEI Integration
@@ -67,7 +67,7 @@
   - Not Enough Keys
   - NotEnoughCodecs
   - Nuclear Control
-  - Numina (Disabled)
+  - Numina (Removed)
   - Obsidiplates
   - Open Peripheral
   - OpenBlocks
@@ -75,12 +75,12 @@
   - OpenPeripheral Core
   - Opis
   - PneumaticCraft
-  - Portal Gun (Disabled)
+  - Portal Gun (Removed)
   - Project Red
   - Railcraft
-  - Redstone Arsenal (Disabled)
+  - Redstone Arsenal (Removed)
   - Resource Loader
-  - slick-util (Disabled)
+  - slick-util (Removed)
   - Steve's Carts 2
   - Steve's Factory Manager
   - Thaumcraft
