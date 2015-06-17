@@ -94,5 +94,10 @@
   - Waila Harvestability
   - Wireless Redstone CBE
   - Witchery
-  - OpenComputer
-  - Fast Leaf Decay
+  - OpenComputer (Added)
+  - Fast Leaf Decay (Added)
+  - Thaumcraft NEI Plugin (Added)
+  - Simply Jetpacks (Added)
+  - Thaumic Energistics (Added)
+  - Springboards (Added)
+  - Custom NPCs (Added)
