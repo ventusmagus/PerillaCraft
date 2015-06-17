@@ -1,3 +1,7 @@
+# OreGen
+  - [DireWolf OreGen 1.7]
+[DireWolf OreGen 1.7]:https://docs.google.com/spreadsheets/d/1kEf709qycDrUypgz71h2FVBwhqG-w3FKDxwVdeeCfMg
+
 # Mods List:
   - Forge/FML
   - AOBD 2
