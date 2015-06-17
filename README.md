@@ -100,4 +100,3 @@
   - Simply Jetpacks (Added)
   - Thaumic Energistics (Added)
   - Springboards (Added)
-  - Custom NPCs (Added)
