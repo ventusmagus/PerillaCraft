@@ -104,3 +104,8 @@
   - Simply Jetpacks (Added)
   - Thaumic Energistics (Added)
   - Springboards (Added)
+  - Thaumic NEI (Added)
+  - Witching Gadgets (Added)
+  - Thaumic Horizons (Added)
+  - Wawla (Added)
+  - Traveller's Gear (Added)
